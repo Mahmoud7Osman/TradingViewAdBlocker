@@ -4,7 +4,8 @@
 Nothing is more Annoying
    Than TradingView Ads And "Subscribe to premium" Prompts
 </pre>
-<h2> So I Decided To Make Traders' Life Easier I'm Sorry TradingView </h2>
+<h2> So I Decided To Make Traders' Life Easier</h2>
+<h3>Features</h3>
 <ul>
   <li>Block Ads</li>
   <li>Block Premium Subscribtion Messages</li>
