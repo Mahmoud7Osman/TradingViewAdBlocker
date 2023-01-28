@@ -8,7 +8,7 @@ Nothing is more Annoying
 <h3>Features</h3>
 <ul>
   <li>Block Ads</li>
-  <li>Block Premium Subscribtion Messages</li>
+  <li>Block Premium Subscription Messages</li>
 </ul>
 
 # Setup
